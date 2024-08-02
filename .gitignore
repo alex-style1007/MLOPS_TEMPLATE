@@ -1,1 +1,10 @@
-.env/
+# Ignorar el entorno virtual
+env/
+
+# Ignorar archivos de configuración específicos del entorno
+*.pyc
+__pycache__/
+
+# Ignorar archivos de sistema (ejemplo en macOS)
+.DS_Store
+env/
