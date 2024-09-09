@@ -1,0 +1,31 @@
+{
+    "name": "Mi Tubería ETL",
+    "description": "Extrae datos de una base de datos MySQL y los carga en un lago de datos en formato Parquet",
+    "schedule": "0 0 * * *", 
+    "sources": [
+        {
+            "type": "database",
+            "connection": "mysql_connection",
+            "query": "SELECT * FROM my_table"
+        }
+    ],
+    "transformations": [
+        {
+            "type": "filter",
+            "condition": "column_a > 10"
+        },
+        {
+            "type": "join",
+            "left": "source1",
+            "right": "source2",
+            "on": "id"
+        }
+    ],
+    "targets": [
+        {
+            "type": "file",
+            "format": "parquet",
+            "path": "s3://my-bucket/data/output"
+        }
+    ]
+}

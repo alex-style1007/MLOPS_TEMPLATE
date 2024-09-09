@@ -2,5 +2,7 @@
     "autor":"autor",
     "Project_name": "Project_name",
     "project_version":"project_version",
-    "Business_Understanding":"Business_understaning"
+    "Business_Understanding":"Business_understaning",
+    "Data_Manipulation":"Data_Manipulation and analytics",
+    "Data_conection":"connectionBD"
 }
