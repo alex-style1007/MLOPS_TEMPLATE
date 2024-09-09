@@ -4,5 +4,7 @@
     "project_version":"project_version",
     "Business_Understanding":"Business_understaning",
     "Data_Manipulation":"Data_Manipulation and analytics",
-    "Data_conection":"connectionBD"
+    "Data_conection":"connectionBD",
+    "Model1":"Modelo1",
+    "deployment":"despliegue"
 }
