@@ -1,4 +1,6 @@
 {
+    "autor":"autor",
     "Project_name": "Project_name",
+    "project_version":"project_version",
     "Business_Understanding":"Business_understaning"
 }
