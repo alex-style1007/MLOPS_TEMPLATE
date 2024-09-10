@@ -1,3 +1,3 @@
 author: "{{ cookiecutter.author }}"
-project_name: "{{ cookiecutter.project_name }}"
-project_version: "{{ cookiecutter.project_version }}"
+Project_name: "{{ cookiecutter.Project_name }}"
+Project_version: "{{ cookiecutter.Project_version }}"
