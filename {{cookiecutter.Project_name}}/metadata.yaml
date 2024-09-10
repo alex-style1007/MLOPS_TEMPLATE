@@ -1,3 +1,4 @@
 author: "{{ cookiecutter.author }}"
 Project_name: "{{ cookiecutter.Project_name }}"
 project_version: "{{ cookiecutter.project_version }}"
+date: "{{ cookiecutter.date }}"
