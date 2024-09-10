@@ -1,0 +1,23 @@
+¿Qué es un diccionario de datos?
+
+Es un documento que describe de forma detallada cada una de las variables o atributos presentes en un conjunto de datos. Sirve como un glosario que define el significado, el formato, el origen y otras características relevantes de cada variable.
+
+¿Por qué es importante?
+
+    Comprender los datos: Permite a todos los miembros del equipo tener una visión clara y unificada de los datos.
+    Asegurar la calidad: Ayuda a identificar posibles errores o inconsistencias en los datos.
+    Facilitar el análisis: Proporciona la información necesaria para seleccionar las variables adecuadas para el análisis y construir modelos.
+    Documentar el proyecto: Sirve como referencia para futuros análisis y proyectos relacionados.
+
+¿Qué debe contener un diccionario de datos?
+
+    Nombre de la variable: Nombre claro y conciso que identifique la variable.
+    Descripción: Explicación detallada del significado de la variable en el contexto del negocio.
+    Tipo de dato: Tipo de dato de la variable (numérico, categórico, fecha, etc.).
+    Formato: Formato en el que se almacena la variable (por ejemplo, YYYY-MM-DD para fechas).
+    Unidad de medida: Si aplica, la unidad de medida de la variable (por ejemplo, metros, dólares).
+    Rango de valores: Valores mínimos y máximos posibles para la variable.
+    Valores únicos: Lista de los valores únicos que puede tomar la variable.
+    Origen: De dónde provienen los datos (base de datos, archivo, etc.).
+    Fecha de creación/actualización: Fecha en que se creó o actualizó la información.
+    Observaciones: Cualquier otra información relevante sobre la variable.

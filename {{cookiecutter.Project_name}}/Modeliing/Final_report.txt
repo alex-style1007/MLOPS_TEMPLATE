@@ -1,0 +1,46 @@
+1. Resumen Ejecutivo
+Propósito: Proporcionar una visión general concisa del proyecto y los resultados del modelo para que los interesados (stakeholders) que no están familiarizados con los detalles técnicos puedan comprender el impacto y los beneficios.
+
+Contenido: Resumen del problema, objetivos del proyecto, las principales conclusiones del modelo y recomendaciones basadas en los resultados.
+
+2. Descripción del Modelo Final
+Propósito: Detallar el modelo que se ha elegido como el más adecuado para resolver el problema.
+
+Contenido:
+
+Tipo de modelo: Descripción del modelo (e.g., regresión logística, árbol de decisión, red neuronal).
+Parámetros: Valores y configuraciones clave del modelo.
+Rendimiento: Métricas de rendimiento del modelo (e.g., precisión, recall, F1 score) y cómo se comparan con otros modelos evaluados.
+3. Evaluación del Rendimiento
+Propósito: Evaluar cómo el modelo se desempeña en datos de prueba y en comparación con otros modelos.
+
+Contenido:
+
+Métricas de evaluación: Detalle de las métricas utilizadas (como la precisión, la recuperación, la AUC-ROC, etc.).
+Curvas y gráficos: Representaciones visuales del rendimiento del modelo.
+Comparación de modelos: Análisis de cómo el modelo final se compara con otros modelos considerados en términos de rendimiento.
+4. Interpretación de Resultados
+Propósito: Ayudar a los stakeholders a entender cómo y por qué el modelo hace ciertas predicciones o decisiones.
+
+Contenido:
+
+Importancia de características: Qué características del conjunto de datos son más influyentes en las predicciones del modelo.
+Ejemplos de predicciones: Casos de estudio o ejemplos específicos que muestran cómo el modelo se comporta en situaciones concretas.
+5. Plan de Implementación
+Propósito: Detallar cómo el modelo será desplegado y utilizado en producción.
+
+Contenido:
+
+Requerimientos técnicos: Infraestructura necesaria para implementar el modelo.
+Pasos de despliegue: Procedimientos para llevar el modelo a producción.
+Mantenimiento: Estrategias para monitorizar y actualizar el modelo conforme a nuevas datos y condiciones.
+6. Conclusiones y Recomendaciones
+Propósito: Resumir los hallazgos clave y ofrecer sugerencias basadas en el modelo final.
+
+Contenido:
+
+Conclusiones: Principales hallazgos y cómo se alinean con los objetivos del proyecto.
+Recomendaciones: Sugerencias sobre próximas acciones, posibles mejoras y cómo aplicar los resultados del modelo.
+7. Apéndices y Anexos
+Propósito: Incluir información adicional que respalde el informe pero que es demasiado detallada para el cuerpo principal.
+

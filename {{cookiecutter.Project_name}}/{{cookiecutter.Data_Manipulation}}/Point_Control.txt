@@ -1,0 +1,55 @@
+¿Qué es un Informe de Punto de Control en TDSP?
+
+En un proceso TDSP (Team Data Science Process), un informe de punto de control es un documento que marca un hito en el desarrollo del proyecto, evaluando el progreso alcanzado y los desafíos encontrados hasta ese momento. En la etapa 2, que típicamente se centra en la preparación de los datos, este informe es crucial para asegurar que se está avanzando en la dirección correcta.
+
+Contenido del Informe de Punto de Control de la Etapa 2
+
+Un informe de punto de control de la etapa 2 debe incluir, como mínimo, los siguientes elementos:
+
+    Resumen Ejecutivo:
+        Un resumen conciso de los principales logros y desafíos de la etapa.
+        Una evaluación general de la calidad de los datos preparados.
+        Una comparación de los resultados obtenidos con los objetivos iniciales.
+
+    Actividades Realizadas:
+        Detalle de las tareas realizadas durante la etapa (limpieza de datos, transformación, enriquecimiento, etc.).
+        Herramientas y técnicas utilizadas.
+        Cualquier desviación del plan original y las razones detrás de ellas.
+
+    Calidad de los Datos:
+        Evaluación de la calidad de los datos preparados.
+        Identificación y resolución de problemas de calidad (valores faltantes, inconsistencias, etc.).
+        Cumplimiento de los requisitos de calidad definidos en etapas anteriores.
+
+    Resultados Obtenidos:
+        Presentación de los datos preparados (visualizaciones, estadísticas descriptivas).
+        Validación de la calidad de los datos preparados mediante técnicas de validación.
+        Comparación de los datos preparados con los datos originales.
+
+    Desafíos Encontrados:
+        Identificación de los desafíos más importantes encontrados durante la etapa.
+        Análisis de las causas raíz de los desafíos.
+        Propuesta de soluciones o acciones a seguir para superar los desafíos.
+
+    Próximos Pasos:
+        Definición clara de las actividades a realizar en la siguiente etapa.
+        Establecimiento de un cronograma detallado.
+        Identificación de los recursos necesarios.
+
+    Riesgos y Mitigaciones:
+        Identificación de los riesgos potenciales que podrían afectar el proyecto en la siguiente etapa.
+        Propuesta de estrategias de mitigación para cada riesgo.
+
+Objetivos del Informe
+
+    Evaluar el progreso: Asegurarse de que el proyecto está avanzando según lo planificado.
+    Identificar problemas: Detectar y abordar problemas de manera proactiva.
+    Comunicar el estado del proyecto: Informar a los stakeholders sobre el progreso y los resultados obtenidos.
+    Tomar decisiones: Proporcionar la información necesaria para tomar decisiones informadas sobre el futuro del proyecto.
+
+Recomendaciones
+
+    Ser claro y conciso: El informe debe ser fácil de entender, incluso para personas sin conocimientos técnicos profundos.
+    Utilizar visualizaciones: Emplear gráficos y tablas para ilustrar los resultados y facilitar la comprensión.
+    Ser objetivo: Evaluar los resultados de manera honesta y transparente.
+    Enfocarse en los resultados: El informe debe destacar los resultados más importantes y relevantes para el proyecto.
