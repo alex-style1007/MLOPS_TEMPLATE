@@ -1,3 +1,59 @@
+What is a Checkpoint Report in TDSP?
+In the Team Data Science Process (TDSP), a checkpoint report is a document that marks a milestone in the project’s development by evaluating the progress made and the challenges encountered up to that point. In Stage 2, which typically focuses on data preparation, this report is crucial to ensure that the project is advancing in the right direction.
+
+Contents of the Stage 2 Checkpoint Report
+
+A Stage 2 checkpoint report should include, at a minimum, the following elements:
+
+Executive Summary:
+
+A concise summary of the main achievements and challenges of the stage.
+A general evaluation of the quality of the prepared data.
+A comparison of the results obtained with the initial objectives.
+Activities Performed:
+
+Details of the tasks performed during the stage (e.g., data cleaning, transformation, enrichment).
+Tools and techniques used.
+Any deviations from the original plan and the reasons behind them.
+Data Quality:
+
+Evaluation of the quality of the prepared data.
+Identification and resolution of quality issues (missing values, inconsistencies, etc.).
+Compliance with the quality requirements defined in previous stages.
+Results Obtained:
+
+Presentation of the prepared data (visualizations, descriptive statistics).
+Validation of the quality of the prepared data using validation techniques.
+Comparison of the prepared data with the original data.
+Challenges Encountered:
+
+Identification of the most significant challenges faced during the stage.
+Analysis of the root causes of these challenges.
+Proposed solutions or actions to address these challenges.
+Next Steps:
+
+Clear definition of the activities to be carried out in the next stage.
+Establishment of a detailed timeline.
+Identification of the resources required.
+Risks and Mitigations:
+
+Identification of potential risks that could affect the project in the next stage.
+Proposed mitigation strategies for each risk.
+Objectives of the Report
+
+Evaluate Progress: Ensure that the project is progressing as planned.
+Identify Issues: Detect and address issues proactively.
+Communicate Project Status: Inform stakeholders about the progress and results obtained.
+Make Decisions: Provide necessary information for making informed decisions about the future of the project.
+Recommendations
+
+Be Clear and Concise: The report should be easy to understand, even for individuals without deep technical knowledge.
+Use Visualizations: Employ graphs and tables to illustrate results and facilitate understanding.
+Be Objective: Evaluate results honestly and transparently.
+Focus on Results: The report should highlight the most important and relevant results for the project.
+=====================================================================0
+Español
+===================================================================
 ¿Qué es un Informe de Punto de Control en TDSP?
 
 En un proceso TDSP (Team Data Science Process), un informe de punto de control es un documento que marca un hito en el desarrollo del proyecto, evaluando el progreso alcanzado y los desafíos encontrados hasta ese momento. En la etapa 2, que típicamente se centra en la preparación de los datos, este informe es crucial para asegurar que se está avanzando en la dirección correcta.

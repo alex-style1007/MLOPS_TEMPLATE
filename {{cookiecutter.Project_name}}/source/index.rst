@@ -45,3 +45,9 @@ We hope that this documentation provides a clear insight into the process and re
    README.md
    {{cookiecutter.Business_Understanding}}/index.rst
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Stage two:
+
+   {{cookiecutter.Data_Manipulation}}/index.rst
+
