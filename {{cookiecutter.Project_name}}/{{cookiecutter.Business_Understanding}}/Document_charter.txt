@@ -1,44 +1,44 @@
-Documento Charter: Tu Proyecto de Ciencia de Datos
+Project Charter: Your Data Science Project
 
-Este documento sirve como la piedra angular de nuestro proyecto de ciencia de datos. En él, definiremos claramente los objetivos, el alcance, las responsabilidades y los recursos necesarios para llevar a cabo el proyecto de manera exitosa.
+This document serves as the cornerstone of our data science project. In it, we will clearly define the objectives, scope, responsibilities, and resources required to successfully carry out the project.
 
-¿Qué contendrá este documento?
+What will this document contain?
 
-    Visión general del proyecto:
-        Descripción concisa del problema que buscamos resolver o la oportunidad que queremos aprovechar.
-        Justificación del proyecto: ¿Por qué es importante este proyecto para la organización?
-        Objetivos específicos y medibles.
-    Alcance del proyecto:
-        Qué está incluido y qué está excluido del proyecto.
-        Límites del proyecto en términos de tiempo, recursos y funcionalidades.
-    Equipo del proyecto:
-        Roles y responsabilidades de cada miembro del equipo.
-        Líder del proyecto y sus responsabilidades.
-    Cronograma:
-        Fechas clave de inicio, finalización y hitos importantes.
-        Dependencias entre las diferentes tareas.
-    Recursos:
-        Requerimientos de datos, herramientas, software y hardware.
-        Presupuesto asignado al proyecto.
-    Criterios de éxito:
-        Cómo mediremos el éxito del proyecto.
-        Indicadores clave de rendimiento (KPIs).
-    Gestión de riesgos:
-        Identificación de los posibles riesgos que podrían afectar el proyecto.
-        Planes de mitigación para cada riesgo.
-        Proceso de comunicación y escalamiento de riesgos.
-    Comunicación:
-        Frecuencia de las reuniones del equipo.
-        Canales de comunicación (email, herramientas de colaboración).
-        Proceso de toma de decisiones.
+    Project Overview:
+        A concise description of the problem we seek to solve or the opportunity we want to take advantage of.
+        The project's justification: Why is this project important to the organization?
+        Specific and measurable objectives.
+    Project Scope:
+        What is included and what is excluded from the project.
+        Project limits in terms of time, resources, and functionalities.
+    Project Team:
+        Roles and responsibilities of each team member.
+        Project leader and their responsibilities.
+    Timeline:
+        Key start, end, and milestone dates.
+        Dependencies between different tasks.
+    Resources:
+        Data, tools, software, and hardware requirements.
+        Budget allocated to the project.
+    Success Criteria:
+        How we will measure the project's success.
+        Key Performance Indicators (KPIs).
+    Risk Management:
+        Identification of potential risks that could affect the project.
+        Mitigation plans for each risk.
+        Risk communication and escalation process.
+    Communication:
+        Frequency of team meetings.
+        Communication channels (email, collaboration tools).
+        Decision-making process.
 
-¿Por qué es importante este documento?
+Why is this document important?
 
-    Asegura la alineación: Todos los miembros del equipo tendrán una comprensión clara de los objetivos y expectativas del proyecto.
-    Facilita la toma de decisiones: Sirve como referencia para resolver dudas y tomar decisiones a lo largo del proyecto.
-    Mide el progreso: Permite realizar un seguimiento del avance del proyecto y ajustar el rumbo si es necesario.
-    Reduce riesgos: Al identificar y mitigar los riesgos de antemano, se aumenta la probabilidad de éxito del proyecto.
+    Ensures alignment: All team members will have a clear understanding of the project's objectives and expectations.
+    Facilitates decision-making: It serves as a reference for resolving doubts and making decisions throughout the project.
+    Measures progress: It allows for tracking the project's progress and adjusting course if necessary.
+    Reduces risks: By identifying and mitigating risks in advance, the likelihood of project success is increased.
 
-Próximos pasos:
+Next steps:
 
-Una vez que tengamos este documento finalizado, podremos comenzar a trabajar en la siguiente etapa del proceso TDSP, que es la comprensión de los datos.
+Once we have finalized this document, we can begin working on the next stage of the TDSP process, which is understanding the data.

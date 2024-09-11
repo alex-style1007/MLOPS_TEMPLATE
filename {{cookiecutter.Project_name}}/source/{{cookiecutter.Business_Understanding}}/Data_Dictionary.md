@@ -1,12 +1,12 @@
-# What is a data dictionary?
-A data dictionary is a document that provides detailed descriptions of each variable or attribute within a dataset. It serves as a glossary that defines the meaning, format, origin, and other relevant characteristics of each variable.
+# Data Dictionary
 
-## Why is it important?
+## Introduction
 
-* **Understanding the data:** It allows all team members to have a clear and unified view of the data.
-* **Ensuring quality:** It helps identify potential errors or inconsistencies in the data.
-* **Facilitating analysis:** It provides the necessary information to select the appropriate variables for analysis and build models.
-* **Documenting the project:** It serves as a reference for future analyses and related projects.
+1. Document Purpose
+This document provides a detailed description of the data used in {{cookiecutter.Project_name}}. It includes definitions of terms, data structures, and associated business rules. Its purpose is to ensure a common and accurate understanding among team members and stakeholders.
+
+2. Scope
+This data dictionary covers all relevant data for [general description of the system, process, or application].
 
 ## What should a data dictionary contain?
 
@@ -20,6 +20,13 @@ A data dictionary is a document that provides detailed descriptions of each vari
 * Origin: Where the data comes from (database, file, etc.).
 * Creation/update date: Date on which the information was created or updated.
 * Observations: Any other relevant information about the variable.
+
+## Data Definitions
+
+1. Data Tables
+    * Table: [Table Name]
+2. Description
+Brief description of the table and its purpose within the system.
 
 <table>
     <thead>
@@ -53,3 +60,42 @@ A data dictionary is a document that provides detailed descriptions of each vari
         </tr>
     </tbody>
 </table>
+
+## Primary and Foreign Keys
+
+1. Primary Key: [Field]
+2. Foreign Keys: [Field] referencing [Table/Field]
+
+## Data Examples
+
+1. Example 1: [Value]
+2. Example 2: [Value]
+
+### Table Relationships
+
+1. Relationship: [Relationship Name]
+2. Source Table: [Table Name]
+3. Destination Table: [Table Name]
+4. Relationship Type: [e.g., One-to-Many, Many-to-Many]
+5. Description: [Description of the relationship and how it is implemented]
+
+## Code Value Dictionary
+
+1. Code: [Code Name]
+2. Description
+General description of the coded value set.
+
+## Appendices
+
+1. Glossary
+    * Term 1
+
+2. Definition: [Definition of the term]
+    * Term 2
+
+### References
+
+1. Reference 1
+Description: [Description]
+Link: [Link if applicable]
+

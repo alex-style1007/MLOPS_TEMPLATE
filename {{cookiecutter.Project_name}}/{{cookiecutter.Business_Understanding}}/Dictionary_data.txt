@@ -1,23 +1,22 @@
-¿Qué es un diccionario de datos?
+What is a data dictionary?
 
-Es un documento que describe de forma detallada cada una de las variables o atributos presentes en un conjunto de datos. Sirve como un glosario que define el significado, el formato, el origen y otras características relevantes de cada variable.
+A data dictionary is a document that provides detailed descriptions of each variable or attribute within a dataset. It acts as a glossary, defining the meaning, format, origin, and other relevant characteristics of each variable.
+Why is it important?
 
-¿Por qué es importante?
+    Understanding the data: It allows all team members to have a clear and unified view of the data.
+    Ensuring quality: It helps identify potential errors or inconsistencies in the data.
+    Facilitating analysis: It provides the necessary information to select the appropriate variables for analysis and build models.
+    Documenting the project: It serves as a reference for future analyses and related projects.
 
-    Comprender los datos: Permite a todos los miembros del equipo tener una visión clara y unificada de los datos.
-    Asegurar la calidad: Ayuda a identificar posibles errores o inconsistencias en los datos.
-    Facilitar el análisis: Proporciona la información necesaria para seleccionar las variables adecuadas para el análisis y construir modelos.
-    Documentar el proyecto: Sirve como referencia para futuros análisis y proyectos relacionados.
+What should a data dictionary contain?
 
-¿Qué debe contener un diccionario de datos?
-
-    Nombre de la variable: Nombre claro y conciso que identifique la variable.
-    Descripción: Explicación detallada del significado de la variable en el contexto del negocio.
-    Tipo de dato: Tipo de dato de la variable (numérico, categórico, fecha, etc.).
-    Formato: Formato en el que se almacena la variable (por ejemplo, YYYY-MM-DD para fechas).
-    Unidad de medida: Si aplica, la unidad de medida de la variable (por ejemplo, metros, dólares).
-    Rango de valores: Valores mínimos y máximos posibles para la variable.
-    Valores únicos: Lista de los valores únicos que puede tomar la variable.
-    Origen: De dónde provienen los datos (base de datos, archivo, etc.).
-    Fecha de creación/actualización: Fecha en que se creó o actualizó la información.
-    Observaciones: Cualquier otra información relevante sobre la variable.
+    Variable name: A clear and concise name that identifies the variable.
+    Description: A detailed explanation of the variable's meaning in the business context.
+    Data type: The data type of the variable (numeric, categorical, date, etc.).
+    Format: The format in which the variable is stored (e.g., YYYY-MM-DD for dates).
+    Unit of measure: If applicable, the unit of measure of the variable (e.g., meters, dollars).
+    Range of values: The minimum and maximum possible values for the variable.
+    Unique values: A list of the unique values that the variable can take.
+    Origin: Where the data comes from (database, file, etc.).
+    Creation/update date: The date on which the information was created or updated.
+    Observations: Any other relevant information about the variable.

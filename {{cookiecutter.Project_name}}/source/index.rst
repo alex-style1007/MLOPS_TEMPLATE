@@ -43,6 +43,5 @@ We hope that this documentation provides a clear insight into the process and re
    :caption: Contents:
 
    README.md
-   {{cookiecutter.Business_Understanding}}/Document_charter.md
-   {{cookiecutter.Business_Understanding}}/Data_Dictionary.md
+   {{cookiecutter.Business_Understanding}}/index.rst
 
