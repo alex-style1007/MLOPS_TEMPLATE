@@ -76,35 +76,6 @@ Sphinx is a documentation generating software that converts reStructuredText fil
 
 Navigate to your project's root directory and run the following command to start setting up Sphinx:
 
-```bash
-sphinx-quickstart
-```
-
-This command will guide you through a series of questions to set up your Sphinx project. Answer the questions based on your needs. Here is a basic setup:
-
-- Root path for the documentation: docs
-- Separate source and build directories: yes
-- Name prefix for templates and static dir: [Press Enter]
-- Project name: [Project name]
-- Author: [Your name]
-- Project release: [Project version]
-- Project language: [es for Spanish, en for English, etc.]
-- Documentation Project Structure with Sphinx:
-
-After running sphinx-quickstart, Sphinx will create a basic directory and file structure. The basic structure of the documentation project may look like this:
-
-```bash
-{{cookiecutter.Project_name}}/
-├── build/
-├── source/
-│   ├── _static/
-│   ├── _templates/
-│   ├── conf.py
-│   ├── index.rst
-└── Makefile
-
-```
-
 ## Generating Documentation:
 
 Once you have configured and added content to your .rst files, you can generate the documentation with:
@@ -118,6 +89,22 @@ Genereted html documents in the build/html files
 make latexpdf
 ```
 Genereted pdf documents in the build/latex
+
+
+After running sphinx, Sphinx will create a basic directory and file structure. The basic structure of the documentation project may look like this:
+
+```bash
+{{cookiecutter.Project_name}}/
+├── build/
+├── source/
+│   ├── _static/
+│   ├── _templates/
+│   ├── conf.py
+│   ├── index.rst
+└── Makefile
+
+```
+
 
 if latexpdf does not work, run these commands in ubuntu:
 
