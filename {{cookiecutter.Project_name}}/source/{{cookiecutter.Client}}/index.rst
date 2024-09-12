@@ -2,7 +2,7 @@ Final Stage
 ================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 0
    :caption: Stage final:
 
    UserGuide

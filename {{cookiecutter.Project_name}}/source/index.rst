@@ -39,11 +39,12 @@ In this documentation, you will find detailed information about:
 We hope that this documentation provides a clear insight into the process and results of our work.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 0
    :caption: Contents:
 
    README.md
    {{cookiecutter.Business_Understanding}}/index.rst
+   {{cookiecutter.Data_conection}}/index.rst
    {{cookiecutter.Data_Manipulation}}/index.rst
    Modeling/index.rst
    {{cookiecutter.deployment}}/index.rst
