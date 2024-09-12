@@ -1,4 +1,4 @@
-# Cookiecutter Project Usage Guide
+# Cookiecutter Project MLOPS Usage TDSP methodology
 
 ## 1. Introduction
 
@@ -45,3 +45,77 @@ To create a new project using cookiecutter, run the following command on the com
 ```bash
 cookiecutter https://github.com/alex-style1007/MLOPS_TEMPLATE
 ```
+
+# Use virtual environment
+
+First you need to activate a virtual environment with the following commands:
+
+```bash
+python -m venv .venv
+```
+
+Then you need to activate the created environment, make sure you are standing in the project created with the cookiecutter template
+
+```bash
+source venv/bin/activate
+```
+
+- Install Dependencies from requirements.txt:
+
+Once the virtual environment is activated, install the dependencies specified in requirements.txt with:
+
+```bash
+pip install -r requirements.txt
+```
+
+# Use Sphinx
+
+Sphinx is a documentation generating software that converts reStructuredText files into HTML web pages and other formats, including PDF, EPub and man. It takes advantage of the extensible nature of reStructuredText and its extensions (e.g. to automatically generate documentation from source code, write mathematical notation or highlight code).
+
+## Setting up Sphinx:
+
+Navigate to your project's root directory and run the following command to start setting up Sphinx:
+
+```bash
+sphinx-quickstart
+```
+
+This command will guide you through a series of questions to set up your Sphinx project. Answer the questions based on your needs. Here is a basic setup:
+
+- Root path for the documentation: docs
+- Separate source and build directories: yes
+- Name prefix for templates and static dir: [Press Enter]
+- Project name: [Project name]
+- Author: [Your name]
+- Project release: [Project version]
+- Project language: [es for Spanish, en for English, etc.]
+- Documentation Project Structure with Sphinx:
+
+After running sphinx-quickstart, Sphinx will create a basic directory and file structure. The basic structure of the documentation project may look like this:
+
+```bash
+{{cookiecutter.Project_name}}/
+├── build/
+├── source/
+│   ├── _static/
+│   ├── _templates/
+│   ├── conf.py
+│   ├── index.rst
+└── Makefile
+
+```
+
+## Generating Documentation:
+
+Once you have configured and added content to your .rst files, you can generate the documentation with:
+
+```bash
+make html
+```
+Genereted html documents in the build/html files
+
+```bash
+make latexpdf
+```
+Genereted pdf documents in the build/latex
+
