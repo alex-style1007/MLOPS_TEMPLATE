@@ -119,3 +119,9 @@ make latexpdf
 ```
 Genereted pdf documents in the build/latex
 
+if latexpdf does not work, run these commands in ubuntu:
+
+```bash
+sudo update
+sudo apt install latexmk texlive texlive-latex-extra texlive-lang-all
+```
