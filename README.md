@@ -51,7 +51,7 @@ cookiecutter https://github.com/alex-style1007/MLOPS_TEMPLATE
 First you need to activate a virtual environment with the following commands:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 Then you need to activate the created environment, make sure you are standing in the project created with the cookiecutter template
