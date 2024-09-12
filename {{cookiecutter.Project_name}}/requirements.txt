@@ -9,3 +9,5 @@ diagrams
 Sphinx==8.0.2
 recommonmark==0.7.1
 sphinx-markdown-tables==0.0.17 
+groundwork-sphinx-theme
+
