@@ -2,10 +2,12 @@
     "author":"author",
     "Project_name": "Project_name",
     "project_version":"project_version",
-    "Business_Understanding":"Business_understaning",
-    "Data_Manipulation":"Data_Manipulation and analytics",
+    "Business_Understanding":"Business_understaning/stage1",
+    "Data_Manipulation":"Data_Manipulation and analytics/stage2",
     "Data_conection":"connectionBD",
     "Model1":"Modelo1",
-    "deployment":"despliegue",
-    "date":"date now"
+    "deployment":"despliegue/stage4",
+    "date":"date DD_MM_YYYY",
+    "Client":"client_approval/stage5",
+    "Architecture":"Architecture as code Terraform/Docker etc"
 }
