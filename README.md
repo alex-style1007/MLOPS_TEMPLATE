@@ -57,7 +57,7 @@ python3 -m venv .venv
 Then you need to activate the created environment, make sure you are standing in the project created with the cookiecutter template
 
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 - Install Dependencies from requirements.txt:
